@@ -100,6 +100,17 @@ https://github.com/geistinteractive/sails-filemaker
 ###### Interfaces implemented:
 + Semantic
 
+##### sails-cd
+
+https://github.com/tomasruizr/sails-cb
+
+[Couchbase](https://en.wikipedia.org/wiki/Couchbase_Server) is an open-source, distributed (shared-nothing architecture) multi-model NoSQL document-oriented database software package that is optimized for interactive applications.  
+
+###### Interfaces implemented:
++ Semantic
++ Queryable
++ Associations
+
 Have you written a Sails adapter? Submit a PR to this file and add it here!
 
 
